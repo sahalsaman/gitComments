@@ -16,3 +16,8 @@ git initgit init - git initialize (file creating)
 git status => un 
 git add -A => add all files to staging medium
 git commit -m"firstCommit" => adding file to localReprositary
+
+//create reprositary
+git remote add name path => add remote
+git remote -v
+git push -u name 
