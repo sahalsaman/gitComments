@@ -1,0 +1,18 @@
+git scm download and install
+open git bash here
+cmd - git config, git config user.name "sahal",  git config user.email "sahal"
+git config set name and email (check git config --list)
+
+
+
+github 
+======
+1.VCL
+2.clone
+3.push
+4.pull
+
+git initgit init - git initialize (file creating)
+git status => un 
+git add -A => add all files to staging medium
+git commit -m"firstCommit" => adding file to localReprositary
