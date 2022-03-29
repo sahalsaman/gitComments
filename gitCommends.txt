@@ -3,8 +3,6 @@ open git bash here
 cmd - git config, git config user.name "sahal",  git config user.email "sahal"
 git config set name and email (check git config --list)
 
-
-
 github 
 ======
 1.VCL
@@ -12,7 +10,9 @@ github
 3.push
 4.pull
 
-git initgit init - git initialize (file creating)
+project file in right click open git bash here
+===============================
+git init - git initialize (file creating)
 git status => un 
 git add -A => add all files to staging medium
 git commit -m"firstCommit" => adding file to localReprositary
@@ -20,4 +20,10 @@ git commit -m"firstCommit" => adding file to localReprositary
 //create reprositary
 git remote add name path => add remote
 git remote -v
-git push -u name 
+git push -u name master
+
+version control
+==============
+Git log =>list commits
+Git checkout commit_id => change to commit version
+Git checkout master => to recent version
